@@ -37,3 +37,30 @@ Exemplo: http://jsfiddle.net/renanmpimentel/nyez204L/
 ```
 
 Exempĺo:  http://jsfiddle.net/renanmpimentel/0h5vcyah/
+
+- pseudo-class
+
+```javascript
+	//jQuery
+	jQuery ('#nome-div :first-child');
+	
+	//Javascript puro
+	document.querySelectorAll('#nome-div :first-child');
+```
+
+Exemplo: http://jsfiddle.net/renanmpimentel/nd31ov1n/1/
+
+- children
+
+```javascript
+
+	// jQuery
+	jQuery('#div-parent').children();
+
+	//Javascript puro
+	document.getElementById('div-parent').childNodes;
+
+	document.getElementById('div-parent').children
+```
+
+Exemplo: http://jsfiddle.net/renanmpimentel/7o5gcga0/
