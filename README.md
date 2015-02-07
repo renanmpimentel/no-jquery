@@ -11,21 +11,23 @@ Muitas vezes, carregamos o _jQuery_ para utilizar um evento _click_ ou _ajax_, e
 	
 ```javascript
 	//jQuery
-	$("#name-div");
+	$("#nome-div");
 	
 	//Javascript puro
 	document.getElementById('nome-div');
 
 	document.querySelector('#nome-div');
 ```
+Exmeplo: http://jsfiddle.net/renanmpimentel/0a2oo703/
 
 - class
 ```javascript
 	//jQuery
-	$('.nome-class')
+	$('.nome-class');
 
 	//Javascript puro
-	document.getElementsByClassName('.nome-class') 	
+	document.getElementsByClassName('.nome-class'); 	
 	
-	document.querySelectorAll('.nome-class')
+	document.querySelectorAll('.nome-class');
 ```
+Exemplo: http://jsfiddle.net/renanmpimentel/nyez204L/
