@@ -1,39 +1,39 @@
 ## Seletores
 
 -  id
-	
+    
 ```javascript
-	//jQuery
-	jQuery("#nome-div");
-	
-	//Javascript puro
-	document.getElementById('nome-div');
+//jQuery
+jQuery("#nome-div");
 
-	document.querySelector('#nome-div');
+//Javascript puro
+document.getElementById('nome-div');
+
+document.querySelector('#nome-div');
 ```
 Exemplo: http://jsfiddle.net/renanmpimentel/0a2oo703/
 
 - class
 ```javascript
-	//jQuery
-	jQuery('.nome-class');
+//jQuery
+jQuery('.nome-class');
 
-	//Javascript puro
-	document.getElementsByClassName('.nome-class'); 	
-	
-	document.querySelectorAll('.nome-class');
+//Javascript puro
+document.getElementsByClassName('.nome-class');     
+
+document.querySelectorAll('.nome-class');
 ```
 Exemplo: http://jsfiddle.net/renanmpimentel/nyez204L/
 
 - tag name
 ```javascript
-	//jQuery
-	jQuery('div');
+//jQuery
+jQuery('div');
 
-	//Javascript puro
-	document.getElementsByTagName('div'); 
-	
-	document.querySelectorAll('div');
+//Javascript puro
+document.getElementsByTagName('div'); 
+
+document.querySelectorAll('div');
 ```
 
 Exemplo:  http://jsfiddle.net/renanmpimentel/0h5vcyah/
@@ -41,11 +41,11 @@ Exemplo:  http://jsfiddle.net/renanmpimentel/0h5vcyah/
 - pseudo-class
 
 ```javascript
-	//jQuery
-	jQuery ('#nome-div :first-child');
-	
-	//Javascript puro
-	document.querySelectorAll('#nome-div :first-child');
+//jQuery
+jQuery ('#nome-div :first-child');
+
+//Javascript puro
+document.querySelectorAll('#nome-div :first-child');
 ```
 
 Exemplo: http://jsfiddle.net/renanmpimentel/nd31ov1n/1/
@@ -53,14 +53,25 @@ Exemplo: http://jsfiddle.net/renanmpimentel/nd31ov1n/1/
 - children
 
 ```javascript
+// jQuery
+jQuery('#div-parent').children();
 
-	// jQuery
-	jQuery('#div-parent').children();
+//Javascript puro
+document.getElementById('div-parent').childNodes;
 
-	//Javascript puro
-	document.getElementById('div-parent').childNodes;
-
-	document.getElementById('div-parent').children
+document.getElementById('div-parent').children
 ```
 
 Exemplo: http://jsfiddle.net/renanmpimentel/7o5gcga0/
+
+- multiple selectors
+
+```javascript
+// jQuery
+jQuery('div, a, li');
+
+// Javascript puro
+document.querySelectorAll('div, a, li');
+```
+
+Exemplo: http://jsfiddle.net/renanmpimentel/ovdtrg1r/
