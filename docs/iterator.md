@@ -8,8 +8,7 @@ var myArray = ['item1','item2','item3'];
 	});
 	
 	//Javascript puro
-	var length = myArray.length;
-	for(var x=0; x<length; x++){
+	for(var x=0, length = myArray.length; x<length; x++){
 		console.log(x, myArray[0]);
 	}
 
