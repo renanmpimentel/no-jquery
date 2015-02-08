@@ -36,7 +36,7 @@ Exemplo: http://jsfiddle.net/renanmpimentel/nyez204L/
 	document.querySelectorAll('div');
 ```
 
-Exempĺo:  http://jsfiddle.net/renanmpimentel/0h5vcyah/
+Exemplo:  http://jsfiddle.net/renanmpimentel/0h5vcyah/
 
 - pseudo-class
 
