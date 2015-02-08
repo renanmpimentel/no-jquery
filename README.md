@@ -8,4 +8,8 @@ Muitas vezes, carregamos o _jQuery_ para utilizar um evento _click_ ou _ajax_, e
 ## Indice
 
 - [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/doc/selector.md) (_Selectors_: http://api.jquery.com/category/selectors/)
-- Utilidade (_Utilities_: http://api.jquery.com/category/utilities/)
+- Utilidade (_Utilities_: http://api.jquery.com/category/utilities)/
+- Ajax
+- Efeitos
+- Elementos
+- Eventos
