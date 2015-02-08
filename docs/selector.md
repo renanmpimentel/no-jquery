@@ -1,4 +1,4 @@
-## Elemento de seleção
+## Seletores
 
 -  id
 	
