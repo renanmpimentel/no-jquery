@@ -1,10 +1,6 @@
-![No jQuery Logo](logo.png "No jQuery")
+![Boilerplates Logo](logo.png "No jQuery")
 
-# #NOJQUERY
-
-A ideia aqui não é crucificar o jQuery que ajudou e ajuda muitos desenvolvedores na hora de programar e etc. Mas sim, mostrar que antes de usar qualquer _framework_ ou _biblioteca_ __javascript__ devemos ter um conhecimento da linguagem base. 
-
-Muitas vezes, carregamos o _jQuery_ para utilizar um evento _click_ ou _ajax_, então vamos mostrar exemplos de como usar o__ javascript__ puro, para tarefas básicas no seu desenvolvimento.
+A ideia inicial é mostrar de forma simples e direta a forma de trabalhar com __javascript__. Sem a necessidade de carregar uma biblioteca como jQuery e etc.
 
 ## Guia básico para iniciantes
 
