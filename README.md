@@ -1,6 +1,6 @@
 ![Boilerplates Logo](logo.png "No jQuery")
 
-A ideia inicial é mostrar de forma simples e direta a forma de trabalhar com __javascript__. Sem a necessidade de carregar uma biblioteca como jQuery e etc.
+A ideia inicial é mostrar de forma simples e direta como trabalhar com __javascript__ puro. Sem a necessidade de carregar uma biblioteca como jQuery e etc.
 
 Use [polyfill](https://cdn.polyfill.io/) para resolver problemas de incompatibilidade de navegodres
 
