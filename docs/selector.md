@@ -1,6 +1,6 @@
 ## Seletores
 
--  id
+- id
     
 ```javascript
 //jQuery
