@@ -19,7 +19,7 @@ Exemplo: http://jsfiddle.net/renanmpimentel/0a2oo703/
 jQuery('.nome-class');
 
 //Javascript puro
-document.getElementsByClassName('.nome-class');     
+document.getElementsByClassName('nome-class');     
 
 document.querySelectorAll('.nome-class');
 ```
