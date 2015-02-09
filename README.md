@@ -2,9 +2,9 @@
 
 A ideia inicial é mostrar de forma simples e direta como trabalhar com __javascript__ puro. Sem a necessidade de carregar uma biblioteca como jQuery e etc.
 
-Use [polyfill](https://cdn.polyfill.io/) para resolver problemas de incompatibilidade de navegodres
+> Use [polyfill](https://cdn.polyfill.io/) para resolver problemas de incompatibilidade de navegodres
 
-```html
+> ```html
 <script src="https://cdn.polyfill.io/v1/polyfill.min.js"></script>
 ```
 
