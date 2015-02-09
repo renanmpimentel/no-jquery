@@ -20,3 +20,4 @@ Se você quiser ajudar a melhorar este guia, escrevendo, corrigindo ou aprimoran
 - Efeitos
 - Elementos
 - Eventos
+- [Plugins](https://github.com/renanmpimentel/no-jquery/blob/master/docs/plugins.md)
