@@ -14,9 +14,9 @@ Se você quiser ajudar a melhorar este guia, escrevendo, corrigindo ou aprimoran
 
 ## Indice
 
-- [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/doc/selector.md) (_Selectors_: http://api.jquery.com/category/selectors/)
-- Utilidade (_Utilities_: http://api.jquery.com/category/utilities)/
-- Ajax
+- [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/doc/selector.md)
+- Utilidade
+- [Ajax](https://github.com/renanmpimentel/no-jquery/blob/master/doc/ajax.md)
 - Efeitos
 - Elementos
 - Eventos
