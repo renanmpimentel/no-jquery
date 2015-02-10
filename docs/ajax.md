@@ -63,3 +63,5 @@ request.onreadystatechange = function(){
 
 request.send();
 ```
+
+Exemplo: http://jsfiddle.net/renanmpimentel/8deopkjj/
