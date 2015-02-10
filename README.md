@@ -14,10 +14,10 @@ Se você quiser ajudar a melhorar este guia, escrevendo, corrigindo ou aprimoran
 
 ## Indice
 
-- [] [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/docs/selector.md)
-- [] Utilidade
+- [ ] [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/docs/selector.md)
+- [ ] Utilidade
 - [x] [Ajax](https://github.com/renanmpimentel/no-jquery/blob/master/docs/ajax.md)
-- [] Efeitos
-- [] Elementos
-- [] Eventos
+- [ ] Efeitos
+- [ ] Elementos
+- [ ] Eventos
 - [x] [Plugins](https://github.com/renanmpimentel/no-jquery/blob/master/docs/plugins.md)
