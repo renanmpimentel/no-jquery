@@ -43,6 +43,7 @@ request.onreadystatechange = function(){
 
 request.send();
 ```
+Exemplo: http://jsfiddle.net/renanmpimentel/us4tfokh/
 
 - JSON
 ```javascript
