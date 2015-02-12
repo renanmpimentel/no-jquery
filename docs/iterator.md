@@ -15,3 +15,7 @@ var myArray = ['item1','item2','item3'];
 	myArray.forEach(function(obj, index){
 		console.log(index, obj);
 	});
+	
+	Array.prototype.map.call(myArray, function(obj, index) {
+		console.log(index, obj);
+	});
