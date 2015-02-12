@@ -15,3 +15,5 @@
 	myArray.forEach(function(obj, index){
 		console.log(index, obj);
 	});
+	
+Exemplo: [http://jsfiddle.net/ismaelgasparin/8ez7311u/](http://jsfiddle.net/ismaelgasparin/8ez7311u/)
