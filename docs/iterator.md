@@ -1,6 +1,6 @@
 ## Iterações com array simulando for
 
-var myArray = ['item1','item2','item3'];
+	var myArray = ['item1', 'item2', 'item3'];
 	
 	//jQuery
 	$.each(myArray, function(index, obj){
@@ -8,10 +8,10 @@ var myArray = ['item1','item2','item3'];
 	});
 	
 	//Javascript puro
-	for(var x=0, length = myArray.length; x<length; x++){
-		console.log(x, myArray[0]);
+	for(var i = 0, len = myArray.length; i < len; i++){
+		console.log(i, myArray[i]);
 	}
-
+	
 	myArray.forEach(function(obj, index){
 		console.log(index, obj);
 	});
