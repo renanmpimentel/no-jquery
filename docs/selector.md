@@ -1,77 +1,92 @@
 ## Seletores
 
 - id
-    
+
 ```javascript
 //jQuery
-jQuery("#nome-div");
+var obj1 = $("#nome-div");
+console.log(obj1);
 
-//Javascript puro
-document.getElementById('nome-div');
+//Javascript
+var obj2 = document.getElementById('nome-div');
+console.log(obj2);
 
-document.querySelector('#nome-div');
+var obj3 = document.querySelector('#nome-div');
+console.log(obj3);
 ```
-Exemplo: http://jsfiddle.net/renanmpimentel/0a2oo703/
+Exemplo: http://jsfiddle.net/ismaelgasparin/0a2oo703/5/
 
 - class
+
 ```javascript
 //jQuery
-jQuery('.nome-class');
+var obj1 = $('.nome-class');
+console.log(obj1);
 
 //Javascript puro
-document.getElementsByClassName('nome-class');     
+var obj2 = document.getElementsByClassName('.nome-class');	
+console.log(obj2);
 
-document.querySelectorAll('.nome-class');
+var obj3 = document.querySelectorAll('.nome-class');
+console.log(obj3);
 ```
-Exemplo: http://jsfiddle.net/renanmpimentel/nyez204L/
+Exemplo: http://jsfiddle.net/ismaelgasparin/nyez204L/1/
 
-- tag name
+- tag
+
 ```javascript
 //jQuery
-jQuery('div');
+var obj1 = $('div');
+console.log(obj1);
 
 //Javascript puro
-document.getElementsByTagName('div'); 
+var obj2 = document.getElementsByTagName('div'); 
+console.log(obj2);
 
-document.querySelectorAll('div');
+var obj3 = document.querySelectorAll('div');
+console.log(obj3);
 ```
-
-Exemplo:  http://jsfiddle.net/renanmpimentel/0h5vcyah/
+Exemplo: http://jsfiddle.net/ismaelgasparin/0h5vcyah/1/
 
 - pseudo-class
 
 ```javascript
 //jQuery
-jQuery ('#nome-div :first-child');
+var obj1 = $('#nome-div :first-child');
+console.log(obj1);
 
 //Javascript puro
-document.querySelectorAll('#nome-div :first-child');
+var obj2 = document.querySelectorAll('#nome-div :first-child');
+console.log(obj2);
 ```
-
-Exemplo: http://jsfiddle.net/renanmpimentel/nd31ov1n/1/
+Exemplo: http://jsfiddle.net/ismaelgasparin/nd31ov1n/2/
 
 - children
 
 ```javascript
 // jQuery
-jQuery('#div-parent').children();
+var obj1 = $('#div-parent').children();
+console.log(obj1);
 
 //Javascript puro
-document.getElementById('div-parent').childNodes;
+var obj2 = document.getElementById('div-parent').childNodes;
+console.log(obj2);
 
-document.getElementById('div-parent').children
+var obj3 = document.getElementById('div-parent').children;
+console.log(obj3);
 ```
-
-Exemplo: http://jsfiddle.net/renanmpimentel/7o5gcga0/
+Exemplo: http://jsfiddle.net/ismaelgasparin/7o5gcga0/1/
 
 - multiple selectors
 
 ```javascript
 // jQuery
-jQuery('div, a, li');
+var obj1 = $('div, a, li');
+console.log(obj1);
 
 // Javascript puro
-document.querySelectorAll('div, a, li');
+var obj2 = document.querySelectorAll('div, a, li');
+console.log(obj2);
 ```
 
-Exemplo: http://jsfiddle.net/renanmpimentel/ovdtrg1r/
+Exemplo: http://jsfiddle.net/ismaelgasparin/ovdtrg1r/1/
