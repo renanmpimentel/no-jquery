@@ -43,6 +43,9 @@ request.onreadystatechange = function(){
 
 request.send();
 ```
+
+Atualmente, jQuery usa [xhr2](http://caniuse.com/#search=xhr2) com suporte a [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData). Tem bastante workaround também relacionado à [compatibilidade](https://developer.mozilla.org/en-US/docs/Web/API/XMLHTTPRequest#Browser_Compatibility).
+
 Exemplo: http://jsfiddle.net/renanmpimentel/us4tfokh/
 
 - JSON
