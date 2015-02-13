@@ -22,6 +22,6 @@ Não é open source, requer pagamento para uso comercial.
 
 - [Slide and Push Menus](http://tympanus.net/Blueprints/SlidePushMenus/)
 
-Projeto experimental, não atualizado há mais de 2 anos no github, excepto pela configuração do bower. Não tem testes nem garantia que vai funcionar em todos os browsers modernos.
+Projeto experimental, não atualizado há mais de 2 anos no github, exceto pela configuração do bower. Não tem testes nem garantia que vai funcionar em todos os browsers modernos.
 
-Além disso, na parte de licensa do software há uma nota: "*Please note, that most of the tutorials and resources are experimental and not ready for production, but made for inspiration and demonstration purpose only.*"
+Além disso, na parte de licença do software há uma nota: "*Please note, that most of the tutorials and resources are experimental and not ready for production, but made for inspiration and demonstration purpose only.*"
