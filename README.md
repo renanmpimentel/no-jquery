@@ -17,7 +17,7 @@ Se você quiser ajudar a melhorar este guia, escrevendo, corrigindo ou aprimoran
 - [ ] [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/docs/selector.md)
 - [ ] Utilidade
 - [x] [Ajax](https://github.com/renanmpimentel/no-jquery/blob/master/docs/ajax.md)
-- [ ] Efeitos
+- [x] [Efeitos](https://github.com/renanmpimentel/no-jquery/blob/master/docs/effects.md)
 - [ ] Elementos
 - [ ] Eventos
 - [x] [Plugins](https://github.com/renanmpimentel/no-jquery/blob/master/docs/plugins.md)
