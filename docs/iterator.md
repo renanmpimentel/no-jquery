@@ -17,3 +17,4 @@ var myArray = ['item1','item2','item3'];
 		console.log(index, obj);
 	});
 ```
+Exemplo: http://jsfiddle.net/xhjbwymr/
