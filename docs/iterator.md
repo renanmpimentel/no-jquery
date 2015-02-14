@@ -1,5 +1,6 @@
 ## Iterações com array simulando for
 
+```javascript
 var myArray = ['item1','item2','item3'];
 	
 	//jQuery
@@ -15,3 +16,4 @@ var myArray = ['item1','item2','item3'];
 	myArray.forEach(function(obj, index){
 		console.log(index, obj);
 	});
+```
