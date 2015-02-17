@@ -11,6 +11,8 @@ $(el).show();
 el.style.display = '';
 ```
 
+Exemplo: [http://jsfiddle.net/felfis/21chns8e/](http://jsfiddle.net/felfis/21chns8e/)
+
 - hide
 
 ```javascript
@@ -22,7 +24,7 @@ $(el).hide();
 el.style.display = 'none';
 ```
 
-Exemplo: [http://jsfiddle.net/felfis/u7dpsfrk/](http://jsfiddle.net/felfis/u7dpsfrk/)
+Exemplo: [http://jsfiddle.net/felfis/u7dpsfrk/2/](http://jsfiddle.net/felfis/u7dpsfrk/2/)
 
 - fadeIn
 
