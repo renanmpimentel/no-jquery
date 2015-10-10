@@ -9,9 +9,9 @@ $('#element').on('change', function(){
 });
 
 // Javascript puro
-  document.getElementById('element').addEventListener('change', function(){
-    console.log("changed!! hehe");
-  }, false);
+document.getElementById('element').addEventListener('change', function(){
+  console.log("changed!! hehe");
+}, false);
 ```
 
 - on-click
