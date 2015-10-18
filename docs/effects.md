@@ -55,3 +55,31 @@ fadeIn(el);
 
 Exemplo: [http://jsfiddle.net/felfis/3prqegc0/2/](http://jsfiddle.net/felfis/3prqegc0/2/)
 
+- fadeOut
+
+```javascript
+//jQuery
+$(el).fadeOut();
+
+//Javascript puro
+//IE9+
+function fadeOut() {
+  var effect = setInterval(function() {
+    if (!el.style.opacity) {
+      el.style.opacity = 1;
+    }
+    if (el.style.opacity < 0.1) {
+      clearInterval(effect);
+    } else {
+      el.style.opacity -= 0.1;
+    }
+  }, 50);
+};
+
+var el = document.getElementById('nome-da-div');
+fadeOut();
+
+```
+
+Exemplo: [http://jsfiddle.net/guuibayer/dq00f8wj/](http://jsfiddle.net/guuibayer/dq00f8wj/)
+
